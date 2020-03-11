@@ -7,4 +7,4 @@ puts "2 сторона"
 b = gets.chomp.to_f
 
 
-puts "Площадь равна #{a * b}"
+puts "Площадь равна #{a * b} см"
